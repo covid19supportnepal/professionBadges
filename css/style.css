@@ -1,0 +1,32 @@
+/* general */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  /* align-items: center; */
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.profession {
+  background-color: lightblue;
+  color: white;
+  padding: 20px;
+  font-size: 15px;
+  border-radius: 5px;
+  margin: 10px;
+}
