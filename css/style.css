@@ -27,6 +27,21 @@ body {
   color: white;
   padding: 20px;
   font-size: 15px;
+  border-radius: 10px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.person {
+  background-color: #74c1cf;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
   border-radius: 5px;
   margin: 10px;
+  border: 1px solid black;
+}
+
+.attribution {
+  font-size: 0.75em;
 }
